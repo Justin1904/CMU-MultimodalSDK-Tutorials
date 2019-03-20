@@ -1,4 +1,4 @@
-# sdk-tutorial
+# CMU-MultimodalSDK-Tutorials
 
 This is a short tutorial for using the [CMU-MultimodalSDK](https://github.com/A2Zadeh/CMU-MultimodalSDK).
 
